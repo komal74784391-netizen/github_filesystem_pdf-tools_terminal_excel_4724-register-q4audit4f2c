@@ -1,0 +1,11 @@
+{
+  "project": "early-exit-plus",
+  "description": "Implementation of Confidence-Gated Early Exit for Hierarchical Transformers (IR-2025-3364)",
+  "popularity": 214,
+  "captured_at": "2026-09-30",
+  "topics": [
+    "early-exit",
+    "hierarchical"
+  ],
+  "mirror_of": null
+}

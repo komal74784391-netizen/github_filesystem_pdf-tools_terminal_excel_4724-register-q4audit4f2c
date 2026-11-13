@@ -1,0 +1,12 @@
+{
+  "project": "distributed-opt-toolkit",
+  "description": "General-purpose utilities for sharded optimizer states",
+  "popularity": 880,
+  "captured_at": "2026-09-30",
+  "topics": [
+    "optimizers",
+    "distributed-training",
+    "toolkit"
+  ],
+  "mirror_of": null
+}

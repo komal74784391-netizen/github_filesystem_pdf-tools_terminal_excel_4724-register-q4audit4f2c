@@ -1,0 +1,54 @@
+{
+  "batch_id": "DataflowSys-2026-q1",
+  "batch_note": "Quarterly intake batch; record handles follow the intake shorthand.",
+  "records": [
+    {
+      "record_id": "DFS-3011",
+      "work_id": "PW-0125",
+      "title": "Backpressure-Aware Scheduling for Stream Graphs",
+      "identifier": "IR-2024-9236",
+      "authors": [
+        "Uma Patel"
+      ],
+      "year": 2024,
+      "abstract": "Backpressure-aware stream scheduling.",
+      "program_label": "DFS",
+      "program_note": "Filed under Dataflow Systems (DFS).",
+      "candidate_watchlist": [],
+      "added_by": "programmes-intake",
+      "added_at": "2026-10-02"
+    },
+    {
+      "record_id": "DFS-3022",
+      "work_id": "PW-0554",
+      "title": "Incremental View Maintenance for Column Stores",
+      "identifier": "IR-2024-3672",
+      "authors": [
+        "Valerio Rossi"
+      ],
+      "year": 2024,
+      "abstract": "Incremental view maintenance.",
+      "program_label": "DataflowSys",
+      "program_note": "Filed under Dataflow Systems (DFS).",
+      "candidate_watchlist": [],
+      "added_by": "programmes-intake",
+      "added_at": "2026-10-02"
+    },
+    {
+      "record_id": "DFS-3033",
+      "work_id": "PW-0973",
+      "title": "Operator Fusion for Heterogeneous Dataflow Runtimes",
+      "identifier": "IR-2024-6840",
+      "authors": [
+        "Wei Tang"
+      ],
+      "year": 2024,
+      "abstract": "Operator fusion in dataflow runtimes.",
+      "program_label": "DFS",
+      "program_note": "Filed under Dataflow Systems (DFS).",
+      "candidate_watchlist": [],
+      "added_by": "programmes-intake",
+      "added_at": "2026-10-02"
+    }
+  ]
+}

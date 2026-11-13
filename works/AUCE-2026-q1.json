@@ -1,0 +1,86 @@
+{
+  "batch_id": "AUCE-2026-q1",
+  "batch_note": "Quarterly intake batch; record handles follow the intake shorthand.",
+  "records": [
+    {
+      "record_id": "AUCE-0702",
+      "work_id": "PW-0856",
+      "title": "Sensor Fusion Calibration for Autonomous Navigation",
+      "identifier": "IR-2025-6650",
+      "authors": [
+        "Jamal Haddad"
+      ],
+      "year": 2025,
+      "abstract": "Calibration routines for navigation sensor fusion.",
+      "program_label": "AUCE",
+      "program_note": "Filed under Autonomous Control Engineering (AUCE workstream).",
+      "candidate_watchlist": [],
+      "added_by": "programmes-intake",
+      "added_at": "2026-10-02"
+    },
+    {
+      "record_id": "AUCE-0715",
+      "work_id": "PW-0112",
+      "title": "Reinforcement Learning for Lane-Keeping Controllers",
+      "identifier": "IR-2025-4827",
+      "authors": [
+        "Kira Novak"
+      ],
+      "year": 2025,
+      "abstract": "RL controller for lane keeping.",
+      "program_label": "AUCE",
+      "program_note": "Filed under Autonomous Control Engineering (AUCE workstream).",
+      "candidate_watchlist": [],
+      "added_by": "programmes-intake",
+      "added_at": "2026-10-02"
+    },
+    {
+      "record_id": "AUCE-0721",
+      "work_id": "PW-0418",
+      "title": "Compute-Optimal Early Fusion for Multimodal Encoders",
+      "identifier": "IR-2026-0318",
+      "authors": [
+        "Helena Brandt",
+        "Ravi Iyer"
+      ],
+      "year": 2026,
+      "abstract": "Early fusion strategy that is compute-optimal for multimodal encoders.",
+      "program_label": "AdaptiveCompute",
+      "program_note": "Filed under ACE (adaptive computation).",
+      "candidate_watchlist": [],
+      "added_by": "programmes-intake",
+      "added_at": "2026-10-02"
+    },
+    {
+      "record_id": "AUCE-0733",
+      "work_id": "PW-1104",
+      "title": "Gradient-Sparsified Communication for Sharded Optimizers",
+      "identifier": "IR-2025-1733",
+      "authors": [
+        "Hannah Kim",
+        "Diego Ferreira",
+        "Lars Brandt"
+      ],
+      "year": 2025,
+      "abstract": "Sparse gradient communication schedules for sharded optimizer states, targeted at bandwidth-limited training clusters.",
+      "program_label": "AdaptiveCompute",
+      "program_note": "Filed under the Adaptive Computation workstream (ACE).",
+      "candidate_watchlist": [
+        {
+          "project": "distributed-opt-toolkit",
+          "popularity": 880,
+          "captured_at": "2026-09-30",
+          "notes": "general-purpose toolkit"
+        },
+        {
+          "project": "gradsparse-adamw",
+          "popularity": 143,
+          "captured_at": "2026-09-30",
+          "notes": "variant for federated learning"
+        }
+      ],
+      "added_by": "programmes-intake",
+      "added_at": "2026-10-02"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "batch_id": "AdaptiveCompute-2026-q2",
+  "batch_note": "Quarterly intake batch; record handles follow the intake shorthand.",
+  "records": [
+    {
+      "record_id": "AdaptiveCompute-0507",
+      "work_id": "PW-0892",
+      "title": "Multi-Resolution Sparse Attention for Long Contexts",
+      "identifier": "IR-2026-0257",
+      "authors": [
+        "Lucia Romano",
+        "Kevin Achebe"
+      ],
+      "year": 2026,
+      "abstract": "Sparse attention across multiple resolutions for long-context models.",
+      "program_label": "ACE",
+      "program_note": "Filed under the Adaptive Compute programme.",
+      "candidate_watchlist": [],
+      "added_by": "programmes-intake",
+      "added_at": "2026-10-02"
+    },
+    {
+      "record_id": "AdaptiveCompute-0514",
+      "work_id": "PW-0361",
+      "title": "Budget-Constrained Token Merging in Vision Transformers",
+      "identifier": "IR-2026-0273",
+      "authors": [
+        "Yi-Hsuan Lin",
+        "Omar Haddad"
+      ],
+      "year": 2026,
+      "abstract": "Token merging constrained by a compute budget in vision transformers.",
+      "program_label": "AdaptiveCompute",
+      "program_note": "Filed under ACE (adaptive computation).",
+      "candidate_watchlist": [],
+      "added_by": "programmes-intake",
+      "added_at": "2026-10-02"
+    },
+    {
+      "record_id": "AdaptiveCompute-0529",
+      "work_id": "PW-0548",
+      "title": "Speculative Decoding with Adaptive Draft Depths",
+      "identifier": "IR-2026-0291",
+      "authors": [
+        "Grace Mensah",
+        "Pavel Novak"
+      ],
+      "year": 2026,
+      "abstract": "Draft model depth adapts to token difficulty during speculative decoding.",
+      "program_label": "AdaptiveComp",
+      "program_note": "Filed under the Adaptive Computation workstream (ACE).",
+      "candidate_watchlist": [],
+      "added_by": "programmes-intake",
+      "added_at": "2026-10-02"
+    }
+  ]
+}

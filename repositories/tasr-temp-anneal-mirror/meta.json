@@ -1,0 +1,12 @@
+{
+  "project": "tasr-temp-anneal-mirror",
+  "description": "Read-only community mirror of the primary TASR implementation",
+  "popularity": 193,
+  "captured_at": "2026-09-30",
+  "topics": [
+    "mixture-of-experts",
+    "sparse-routing",
+    "mirror"
+  ],
+  "mirror_of": "tasr-temp-anneal"
+}

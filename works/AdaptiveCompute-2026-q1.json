@@ -1,0 +1,57 @@
+{
+  "batch_id": "AdaptiveCompute-2026-q1",
+  "batch_note": "Quarterly intake batch; record handles follow the intake shorthand.",
+  "records": [
+    {
+      "record_id": "AdaptiveCompute-0402",
+      "work_id": "PW-0733",
+      "title": "Latency-Aware Mixture Dispatch for Edge Accelerators",
+      "identifier": "IR-2026-0202",
+      "authors": [
+        "Kenji Watanabe",
+        "Amara Diallo"
+      ],
+      "year": 2026,
+      "abstract": "Dispatch policy minimising tail latency for sparse mixtures on edge devices.",
+      "program_label": "AdaptiveCompute",
+      "program_note": "Filed under the Adaptive Compute programme.",
+      "candidate_watchlist": [],
+      "added_by": "programmes-intake",
+      "added_at": "2026-10-02"
+    },
+    {
+      "record_id": "AdaptiveCompute-0418",
+      "work_id": "PW-0166",
+      "title": "Progressive Layer Dropping with Recovery Heads",
+      "identifier": "IR-2026-0221",
+      "authors": [
+        "Julia Sandoval",
+        "Ben Okafor"
+      ],
+      "year": 2026,
+      "abstract": "Layer dropping with lightweight recovery heads during inference.",
+      "program_label": "Adaptive Comp.",
+      "program_note": "Filed under ACE (adaptive computation).",
+      "candidate_watchlist": [],
+      "added_by": "programmes-intake",
+      "added_at": "2026-10-02"
+    },
+    {
+      "record_id": "AdaptiveCompute-0426",
+      "work_id": "PW-1015",
+      "title": "Quantized Routing Tables for Memory-Bound Decoders",
+      "identifier": "IR-2026-0240",
+      "authors": [
+        "Ingrid Solberg",
+        "Tarek Mansour"
+      ],
+      "year": 2026,
+      "abstract": "Quantised routing tables reduce decoder memory footprint.",
+      "program_label": "AdaptiveCompute",
+      "program_note": "Filed under the Adaptive Computation workstream (ACE).",
+      "candidate_watchlist": [],
+      "added_by": "programmes-intake",
+      "added_at": "2026-10-02"
+    }
+  ]
+}

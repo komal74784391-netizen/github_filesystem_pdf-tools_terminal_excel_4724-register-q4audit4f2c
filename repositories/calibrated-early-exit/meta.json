@@ -1,0 +1,11 @@
+{
+  "project": "calibrated-early-exit",
+  "description": "Unofficial implementation of Confidence-Calibrated Early Exit for Adaptive Depth Transformers (IR-2025-1188)",
+  "popularity": 57,
+  "captured_at": "2026-09-30",
+  "topics": [
+    "early-exit",
+    "adaptive-compute"
+  ],
+  "mirror_of": null
+}

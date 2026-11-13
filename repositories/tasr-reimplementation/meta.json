@@ -1,0 +1,11 @@
+{
+  "project": "tasr-reimplementation",
+  "description": "From-scratch reimplementation of the TASR mixture-of-experts preprint",
+  "popularity": 132,
+  "captured_at": "2026-09-30",
+  "topics": [
+    "mixture-of-experts",
+    "sparse-routing"
+  ],
+  "mirror_of": null
+}

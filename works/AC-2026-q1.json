@@ -1,0 +1,54 @@
+{
+  "batch_id": "AC-2026-q1",
+  "batch_note": "Quarterly intake batch; record handles follow the intake shorthand.",
+  "records": [
+    {
+      "record_id": "AC-1011",
+      "work_id": "PW-0740",
+      "title": "Stochastic Rounding for Low-Precision Matrix Multiplication",
+      "identifier": "IR-2024-1955",
+      "authors": [
+        "Liam Chen"
+      ],
+      "year": 2024,
+      "abstract": "Stochastic rounding in low-precision GEMM.",
+      "program_label": "AC",
+      "program_note": "Filed under Approximate Computation (AC).",
+      "candidate_watchlist": [],
+      "added_by": "programmes-intake",
+      "added_at": "2026-10-02"
+    },
+    {
+      "record_id": "AC-1022",
+      "work_id": "PW-0931",
+      "title": "Error-Bounded Approximate FFT on Edge Devices",
+      "identifier": "IR-2024-6042",
+      "authors": [
+        "Mona Farah"
+      ],
+      "year": 2024,
+      "abstract": "Approximate FFT with error bounds.",
+      "program_label": "ApproxComp",
+      "program_note": "Filed under Approximate Computation (AC).",
+      "candidate_watchlist": [],
+      "added_by": "programmes-intake",
+      "added_at": "2026-10-02"
+    },
+    {
+      "record_id": "AC-1033",
+      "work_id": "PW-0466",
+      "title": "Approximate Sorting Networks for Streaming Data",
+      "identifier": "IR-2024-3389",
+      "authors": [
+        "Nils Berg"
+      ],
+      "year": 2024,
+      "abstract": "Approximate sorting networks.",
+      "program_label": "AC",
+      "program_note": "Filed under Approximate Computation (AC).",
+      "candidate_watchlist": [],
+      "added_by": "programmes-intake",
+      "added_at": "2026-10-02"
+    }
+  ]
+}

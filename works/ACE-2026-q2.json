@@ -1,0 +1,85 @@
+{
+  "batch_id": "ACE-2026-q2",
+  "batch_note": "Quarterly intake batch; record handles follow the intake shorthand.",
+  "records": [
+    {
+      "record_id": "ACE-0204",
+      "work_id": "PW-0287",
+      "title": "Confidence-Calibrated Early Exit for Adaptive Depth Transformers",
+      "identifier": "IR-2025-1188",
+      "authors": [
+        "Marcus Oyelaran",
+        "Sofia Bianchi"
+      ],
+      "year": 2025,
+      "abstract": "A calibration objective that lets adaptive-depth transformers terminate computation early without degrading answer quality.",
+      "program_label": "ACE",
+      "program_note": "Filed under the Adaptive Computation workstream (ACE).",
+      "candidate_watchlist": [
+        {
+          "project": "calibrated-early-exit",
+          "popularity": 57,
+          "captured_at": "2026-09-30",
+          "notes": "community implementation"
+        },
+        {
+          "project": "early-exit-plus",
+          "popularity": 214,
+          "captured_at": "2026-09-30",
+          "notes": "extended variant"
+        }
+      ],
+      "added_by": "programmes-intake",
+      "added_at": "2026-10-02"
+    },
+    {
+      "record_id": "ACE-0219",
+      "work_id": "PW-0238",
+      "title": "Adaptive Compute Budgeting for Streaming Inference",
+      "identifier": "IR-2025-1207",
+      "authors": [
+        "Owen Gallagher",
+        "Mei-Lin Tsai"
+      ],
+      "year": 2025,
+      "abstract": "A controller that allocates a per-window compute budget for streaming LLM inference.",
+      "program_label": "AdaptiveCompute",
+      "program_note": "Filed under the Adaptive Compute programme.",
+      "candidate_watchlist": [],
+      "added_by": "programmes-intake",
+      "added_at": "2026-10-02"
+    },
+    {
+      "record_id": "ACE-0227",
+      "work_id": "PW-0219",
+      "title": "Lyapunov-Based Formation Control for Aerial Swarms",
+      "identifier": "IR-2025-5121",
+      "authors": [
+        "Bruno Salas"
+      ],
+      "year": 2025,
+      "abstract": "Formation control with Lyapunov certificates.",
+      "program_label": "ACE",
+      "program_note": "Filed under Autonomous Control Engineering (AUCE workstream).",
+      "candidate_watchlist": [],
+      "added_by": "programmes-intake",
+      "added_at": "2026-10-02"
+    },
+    {
+      "record_id": "ACE-0235",
+      "work_id": "PW-0580",
+      "title": "Fault-Tolerant Actuator Allocation in Autonomous Platforms",
+      "identifier": "IR-2025-3304",
+      "authors": [
+        "Greta Olsson"
+      ],
+      "year": 2025,
+      "abstract": "Actuator allocation under partial failures.",
+      "program_label": "ACE",
+      "program_note": "Filed under Autonomous Control Engineering (AUCE workstream).",
+      "candidate_watchlist": [],
+      "added_by": "programmes-intake",
+      "added_at": "2026-10-02"
+    }
+  ]
+}

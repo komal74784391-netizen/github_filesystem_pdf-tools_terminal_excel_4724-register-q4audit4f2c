@@ -1,0 +1,11 @@
+{
+  "project": "tanr-official",
+  "description": "Official code release for Temperature-Aware Networked Routing (IR-2026-5501)",
+  "popularity": 520,
+  "captured_at": "2026-09-30",
+  "topics": [
+    "routing",
+    "networked-routing"
+  ],
+  "mirror_of": null
+}

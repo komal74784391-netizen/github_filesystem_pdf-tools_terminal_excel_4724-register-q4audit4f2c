@@ -1,0 +1,12 @@
+{
+  "project": "tasr-temp-anneal",
+  "description": "Unofficial community implementation of Temperature-Annealed Sparse Routing for Mixture-of-Experts (IR-2026-0417)",
+  "popularity": 187,
+  "captured_at": "2026-09-30",
+  "topics": [
+    "mixture-of-experts",
+    "sparse-routing",
+    "gating"
+  ],
+  "mirror_of": null
+}

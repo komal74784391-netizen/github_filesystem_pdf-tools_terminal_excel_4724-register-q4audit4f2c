@@ -1,0 +1,11 @@
+{
+  "project": "routing-utils",
+  "description": "Generic request routing helpers for web frameworks",
+  "popularity": 640,
+  "captured_at": "2026-09-30",
+  "topics": [
+    "routing",
+    "web"
+  ],
+  "mirror_of": null
+}

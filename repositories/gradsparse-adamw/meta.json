@@ -1,0 +1,11 @@
+{
+  "project": "gradsparse-adamw",
+  "description": "Implementation of Gradient-Sparsified AdamW for Federated Learning (IR-2025-5590)",
+  "popularity": 143,
+  "captured_at": "2026-09-30",
+  "topics": [
+    "federated-learning",
+    "gradient-compression"
+  ],
+  "mirror_of": null
+}

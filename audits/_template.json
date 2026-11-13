@@ -1,0 +1,15 @@
+{
+  "program": "<program name>",
+  "audit_period": "2026-Q4",
+  "generated_at": "<ISO-8601 timestamp>",
+  "works": [
+    {
+      "work_id": "<work id>",
+      "record_id": "<register record id>",
+      "title": "<work title>",
+      "status": "verified | none",
+      "repository_url": "<canonical project folder URL or null>",
+      "evidence": "<short free-text justification>"
+    }
+  ]
+}

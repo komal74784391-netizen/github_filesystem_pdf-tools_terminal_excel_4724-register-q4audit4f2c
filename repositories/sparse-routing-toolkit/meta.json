@@ -1,0 +1,12 @@
+{
+  "project": "sparse-routing-toolkit",
+  "description": "General-purpose toolkit for sparse routing layers (top-k gates, capacity factors, load balancing)",
+  "popularity": 311,
+  "captured_at": "2026-09-30",
+  "topics": [
+    "sparse-routing",
+    "gating",
+    "toolkit"
+  ],
+  "mirror_of": null
+}

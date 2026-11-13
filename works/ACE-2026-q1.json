@@ -1,0 +1,124 @@
+{
+  "batch_id": "ACE-2026-q1",
+  "batch_note": "Quarterly intake batch; record handles follow the intake shorthand.",
+  "records": [
+    {
+      "record_id": "ACE-0117",
+      "work_id": "PW-0431",
+      "title": "Temperature-Annealed Sparse Routing for Mixture-of-Experts",
+      "identifier": "IR-2026-0417",
+      "authors": [
+        "Priya Raman",
+        "Tomas Ekberg",
+        "Aiko Fujimoto"
+      ],
+      "year": 2026,
+      "abstract": "We introduce a temperature-annealing schedule for the gating network of sparse mixture-of-experts layers and study its effect on expert load balance.",
+      "program_label": "ACE",
+      "program_note": "Filed under the Adaptive Computation workstream (ACE).",
+      "candidate_watchlist": [
+        {
+          "project": "tasr-temp-anneal",
+          "popularity": 187,
+          "captured_at": "2026-09-30",
+          "notes": "primary community implementation"
+        },
+        {
+          "project": "tasr-temp-anneal-mirror",
+          "popularity": 193,
+          "captured_at": "2026-09-30",
+          "notes": "read-only mirror of the primary implementation"
+        },
+        {
+          "project": "tasr-reimplementation",
+          "popularity": 132,
+          "captured_at": "2026-09-30",
+          "notes": "independent reimplementation"
+        },
+        {
+          "project": "tasr-light",
+          "popularity": 44,
+          "captured_at": "2026-09-30",
+          "notes": "educational reimplementation"
+        },
+        {
+          "project": "tasr-xl-seq",
+          "popularity": 268,
+          "captured_at": "2026-09-30",
+          "notes": "extended variant for sequential transformers"
+        },
+        {
+          "project": "sparse-routing-toolkit",
+          "popularity": 311,
+          "captured_at": "2026-09-30",
+          "notes": "general-purpose toolkit"
+        },
+        {
+          "project": "tanr-official",
+          "popularity": 520,
+          "captured_at": "2026-09-30",
+          "notes": "official code release for a follow-up work"
+        },
+        {
+          "project": "routing-utils",
+          "popularity": 640,
+          "captured_at": "2026-09-30",
+          "notes": "generic routing helpers"
+        }
+      ],
+      "added_by": "programmes-intake",
+      "added_at": "2026-10-02"
+    },
+    {
+      "record_id": "ACE-0123",
+      "work_id": "PW-0142",
+      "title": "Budgeted Token Pruning with Learned Retention Policies",
+      "identifier": "IR-2026-0151",
+      "authors": [
+        "Elena Vasquez",
+        "Peter Osei"
+      ],
+      "year": 2026,
+      "abstract": "A learned retention policy that prunes tokens under a fixed compute budget.",
+      "program_label": "ACE",
+      "program_note": "Filed under the Adaptive Compute programme.",
+      "candidate_watchlist": [],
+      "added_by": "programmes-intake",
+      "added_at": "2026-10-02"
+    },
+    {
+      "record_id": "ACE-0131",
+      "work_id": "PW-0913",
+      "title": "Elastic Expert Capacity under Bursty Token Loads",
+      "identifier": "IR-2026-0166",
+      "authors": [
+        "Rahul Menon",
+        "Clara Nystrom"
+      ],
+      "year": 2026,
+      "abstract": "Expert capacity is resized online to absorb bursty token distributions.",
+      "program_label": "ACE",
+      "program_note": "Filed under ACE (adaptive computation).",
+      "candidate_watchlist": [],
+      "added_by": "programmes-intake",
+      "added_at": "2026-10-02"
+    },
+    {
+      "record_id": "ACE-0146",
+      "work_id": "PW-0675",
+      "title": "Low-Rank Gate Factorization for Sparse Feed-Forward Layers",
+      "identifier": "IR-2026-0188",
+      "authors": [
+        "Wen Zhao",
+        "Ines Duarte"
+      ],
+      "year": 2026,
+      "abstract": "Factorising gating projections into low-rank components to cut router cost.",
+      "program_label": "AdaptiveCompute",
+      "program_note": "Filed under the Adaptive Computation workstream (ACE).",
+      "candidate_watchlist": [],
+      "added_by": "programmes-intake",
+      "added_at": "2026-10-02"
+    }
+  ]
+}

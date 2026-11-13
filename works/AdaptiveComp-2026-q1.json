@@ -1,0 +1,74 @@
+{
+  "batch_id": "AdaptiveComp-2026-q1",
+  "batch_note": "Quarterly intake batch; record handles follow the intake shorthand.",
+  "records": [
+    {
+      "record_id": "AdaptiveComp-0601",
+      "work_id": "PW-0917",
+      "title": "Energy-Aware Expert Offloading in Sparse Models",
+      "identifier": "IR-2025-1412",
+      "authors": [
+        "Rita Almeida",
+        "Samuel Berg"
+      ],
+      "year": 2025,
+      "abstract": "Expert offloading policy minimising energy per generated token.",
+      "program_label": "AdaptiveComp",
+      "program_note": "Filed under the Adaptive Compute programme.",
+      "candidate_watchlist": [],
+      "added_by": "programmes-intake",
+      "added_at": "2026-10-02"
+    },
+    {
+      "record_id": "AdaptiveComp-0617",
+      "work_id": "PW-0304",
+      "title": "Hierarchical Gate Distillation for Sparse Networks",
+      "identifier": "IR-2025-1430",
+      "authors": [
+        "Anika Rao",
+        "Jesper Holm"
+      ],
+      "year": 2025,
+      "abstract": "Distils hierarchical gating behaviour into compact sparse networks.",
+      "program_label": "Adaptive Comp.",
+      "program_note": "Filed under ACE (adaptive computation).",
+      "candidate_watchlist": [],
+      "added_by": "programmes-intake",
+      "added_at": "2026-10-02"
+    },
+    {
+      "record_id": "AdaptiveComp-0622",
+      "work_id": "PW-1140",
+      "title": "Sparse Activation Caching for Repeated Prompts",
+      "identifier": "IR-2025-1448",
+      "authors": [
+        "Diego Marques",
+        "Lena Fischer"
+      ],
+      "year": 2025,
+      "abstract": "Caches sparse activation patterns across repeated prompts.",
+      "program_label": "AdaptiveComp",
+      "program_note": "Filed under the Adaptive Computation workstream (ACE).",
+      "candidate_watchlist": [],
+      "added_by": "programmes-intake",
+      "added_at": "2026-10-02"
+    },
+    {
+      "record_id": "AdaptiveComp-0638",
+      "work_id": "PW-0691",
+      "title": "Dynamic Expert Replication under Skewed Workloads",
+      "identifier": "IR-2025-1465",
+      "authors": [
+        "Maya Petrov",
+        "Andre Costa"
+      ],
+      "year": 2025,
+      "abstract": "Replicates hot experts dynamically under skewed routing workloads.",
+      "program_label": "ACE",
+      "program_note": "Filed under the Adaptive Compute programme.",
+      "candidate_watchlist": [],
+      "added_by": "programmes-intake",
+      "added_at": "2026-10-02"
+    }
+  ]
+}

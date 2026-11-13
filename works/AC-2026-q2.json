@@ -1,0 +1,54 @@
+{
+  "batch_id": "AC-2026-q2",
+  "batch_note": "Quarterly intake batch; record handles follow the intake shorthand.",
+  "records": [
+    {
+      "record_id": "AC-1044",
+      "work_id": "PW-1187",
+      "title": "Truncated Accumulation in Analog Crossbar Arrays",
+      "identifier": "IR-2024-8216",
+      "authors": [
+        "Olga Ivanova"
+      ],
+      "year": 2024,
+      "abstract": "Truncated accumulation for crossbars.",
+      "program_label": "ApproxComp",
+      "program_note": "Filed under Approximate Computation (AC).",
+      "candidate_watchlist": [],
+      "added_by": "programmes-intake",
+      "added_at": "2026-10-02"
+    },
+    {
+      "record_id": "AC-1055",
+      "work_id": "PW-0628",
+      "title": "Probabilistic Sketching for Approximate Query Engines",
+      "identifier": "IR-2024-2701",
+      "authors": [
+        "Pablo Ruiz"
+      ],
+      "year": 2024,
+      "abstract": "Sketches for approximate query processing.",
+      "program_label": "AC",
+      "program_note": "Filed under Approximate Computation (AC).",
+      "candidate_watchlist": [],
+      "added_by": "programmes-intake",
+      "added_at": "2026-10-02"
+    },
+    {
+      "record_id": "AC-1066",
+      "work_id": "PW-0272",
+      "title": "Low-Bitwidth Convolution with Compensated Bias",
+      "identifier": "IR-2024-5593",
+      "authors": [
+        "Qian Wu"
+      ],
+      "year": 2024,
+      "abstract": "Low-bitwidth convolution with bias compensation.",
+      "program_label": "ApproxComp",
+      "program_note": "Filed under Approximate Computation (AC).",
+      "candidate_watchlist": [],
+      "added_by": "programmes-intake",
+      "added_at": "2026-10-02"
+    }
+  ]
+}

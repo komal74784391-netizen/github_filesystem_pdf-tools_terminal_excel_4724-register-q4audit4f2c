@@ -1,0 +1,72 @@
+{
+  "batch_id": "ACE-2026-q3",
+  "batch_note": "Quarterly intake batch; record handles follow the intake shorthand.",
+  "records": [
+    {
+      "record_id": "ACE-0311",
+      "work_id": "PW-1287",
+      "title": "Spectral Sparsity Scheduling in Recurrent Encoders",
+      "identifier": "IR-2025-1304",
+      "authors": [
+        "Nadia Haddad",
+        "Jonas Weber"
+      ],
+      "year": 2025,
+      "abstract": "Schedules frequency-domain sparsity in recurrent encoders.",
+      "program_label": "ACE",
+      "program_note": "Filed under ACE (adaptive computation).",
+      "candidate_watchlist": [],
+      "added_by": "programmes-intake",
+      "added_at": "2026-10-02"
+    },
+    {
+      "record_id": "ACE-0328",
+      "work_id": "PW-0504",
+      "title": "Chunked Attention with Dynamic Compute Allocation",
+      "identifier": "IR-2025-1339",
+      "authors": [
+        "Sara Lindqvist",
+        "Victor Ndlovu"
+      ],
+      "year": 2025,
+      "abstract": "Attention chunks receive variable compute based on salience estimates.",
+      "program_label": "AdaptiveComp",
+      "program_note": "Filed under the Adaptive Computation workstream (ACE).",
+      "candidate_watchlist": [],
+      "added_by": "programmes-intake",
+      "added_at": "2026-10-02"
+    },
+    {
+      "record_id": "ACE-0336",
+      "work_id": "PW-1073",
+      "title": "Model-Predictive Steering for Unstructured Terrain",
+      "identifier": "IR-2025-7418",
+      "authors": [
+        "Hugo Martin"
+      ],
+      "year": 2025,
+      "abstract": "MPC steering on rough terrain.",
+      "program_label": "ACE",
+      "program_note": "Filed under Autonomous Control Engineering (AUCE workstream).",
+      "candidate_watchlist": [],
+      "added_by": "programmes-intake",
+      "added_at": "2026-10-02"
+    },
+    {
+      "record_id": "ACE-0344",
+      "work_id": "PW-0345",
+      "title": "Distributed Clock Synchronization in Vehicle Networks",
+      "identifier": "IR-2025-2093",
+      "authors": [
+        "Irina Petrescu"
+      ],
+      "year": 2025,
+      "abstract": "Clock synchronisation across vehicle networks.",
+      "program_label": "ACE",
+      "program_note": "Filed under Autonomous Control Engineering (AUCE workstream).",
+      "candidate_watchlist": [],
+      "added_by": "programmes-intake",
+      "added_at": "2026-10-02"
+    }
+  ]
+}

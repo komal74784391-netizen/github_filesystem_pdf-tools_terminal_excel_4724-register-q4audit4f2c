@@ -1,0 +1,11 @@
+{
+  "project": "tasr-light",
+  "description": "Minimal educational implementation of the TASR preprint",
+  "popularity": 44,
+  "captured_at": "2026-09-30",
+  "topics": [
+    "mixture-of-experts",
+    "sparse-routing"
+  ],
+  "mirror_of": null
+}
