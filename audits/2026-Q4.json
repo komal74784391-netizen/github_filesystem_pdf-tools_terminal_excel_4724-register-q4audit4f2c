@@ -1,0 +1,167 @@
+{
+  "program": "Adaptive Computation",
+  "audit_period": "2026-Q4",
+  "generated_at": "2026-11-13T19:34:28.230670+00:00",
+  "works": [
+    {
+      "work_id": "PW-0142",
+      "record_id": "ACE-0123",
+      "title": "Budgeted Token Pruning with Learned Retention Policies",
+      "status": "none",
+      "repository_url": null,
+      "evidence": "No candidate implementation declares the exact work."
+    },
+    {
+      "work_id": "PW-0166",
+      "record_id": "AdaptiveCompute-0418",
+      "title": "Progressive Layer Dropping with Recovery Heads",
+      "status": "none",
+      "repository_url": null,
+      "evidence": "No candidate implementation declares the exact work."
+    },
+    {
+      "work_id": "PW-0238",
+      "record_id": "ACE-0219",
+      "title": "Adaptive Compute Budgeting for Streaming Inference",
+      "status": "none",
+      "repository_url": null,
+      "evidence": "No candidate implementation declares the exact work."
+    },
+    {
+      "work_id": "PW-0287",
+      "record_id": "ACE-0204",
+      "title": "Confidence-Calibrated Early Exit for Adaptive Depth Transformers",
+      "status": "verified",
+      "repository_url": "https://github.com/komal74784391-netizen/github_filesystem_pdf-tools_terminal_excel_4724-register-q4audit4f2c/tree/main/repositories/calibrated-early-exit",
+      "evidence": "README declares the exact work title and identifier; popularity 57 is highest among verified implementations (mirrors excluded)."
+    },
+    {
+      "work_id": "PW-0304",
+      "record_id": "AdaptiveComp-0617",
+      "title": "Hierarchical Gate Distillation for Sparse Networks",
+      "status": "none",
+      "repository_url": null,
+      "evidence": "No candidate implementation declares the exact work."
+    },
+    {
+      "work_id": "PW-0361",
+      "record_id": "AdaptiveCompute-0514",
+      "title": "Budget-Constrained Token Merging in Vision Transformers",
+      "status": "none",
+      "repository_url": null,
+      "evidence": "No candidate implementation declares the exact work."
+    },
+    {
+      "work_id": "PW-0418",
+      "record_id": "AUCE-0721",
+      "title": "Compute-Optimal Early Fusion for Multimodal Encoders",
+      "status": "none",
+      "repository_url": null,
+      "evidence": "No candidate implementation declares the exact work."
+    },
+    {
+      "work_id": "PW-0431",
+      "record_id": "ACE-0117",
+      "title": "Temperature-Annealed Sparse Routing for Mixture-of-Experts",
+      "status": "verified",
+      "repository_url": "https://github.com/komal74784391-netizen/github_filesystem_pdf-tools_terminal_excel_4724-register-q4audit4f2c/tree/main/repositories/tasr-temp-anneal",
+      "evidence": "README declares the exact work title and identifier; popularity 187 is highest among verified implementations (mirrors excluded)."
+    },
+    {
+      "work_id": "PW-0504",
+      "record_id": "ACE-0328",
+      "title": "Chunked Attention with Dynamic Compute Allocation",
+      "status": "none",
+      "repository_url": null,
+      "evidence": "No candidate implementation declares the exact work."
+    },
+    {
+      "work_id": "PW-0548",
+      "record_id": "AdaptiveCompute-0529",
+      "title": "Speculative Decoding with Adaptive Draft Depths",
+      "status": "none",
+      "repository_url": null,
+      "evidence": "No candidate implementation declares the exact work."
+    },
+    {
+      "work_id": "PW-0675",
+      "record_id": "ACE-0146",
+      "title": "Low-Rank Gate Factorization for Sparse Feed-Forward Layers",
+      "status": "none",
+      "repository_url": null,
+      "evidence": "No candidate implementation declares the exact work."
+    },
+    {
+      "work_id": "PW-0691",
+      "record_id": "AdaptiveComp-0638",
+      "title": "Dynamic Expert Replication under Skewed Workloads",
+      "status": "none",
+      "repository_url": null,
+      "evidence": "No candidate implementation declares the exact work."
+    },
+    {
+      "work_id": "PW-0733",
+      "record_id": "AdaptiveCompute-0402",
+      "title": "Latency-Aware Mixture Dispatch for Edge Accelerators",
+      "status": "none",
+      "repository_url": null,
+      "evidence": "No candidate implementation declares the exact work."
+    },
+    {
+      "work_id": "PW-0892",
+      "record_id": "AdaptiveCompute-0507",
+      "title": "Multi-Resolution Sparse Attention for Long Contexts",
+      "status": "none",
+      "repository_url": null,
+      "evidence": "No candidate implementation declares the exact work."
+    },
+    {
+      "work_id": "PW-0913",
+      "record_id": "ACE-0131",
+      "title": "Elastic Expert Capacity under Bursty Token Loads",
+      "status": "none",
+      "repository_url": null,
+      "evidence": "No candidate implementation declares the exact work."
+    },
+    {
+      "work_id": "PW-0917",
+      "record_id": "AdaptiveComp-0601",
+      "title": "Energy-Aware Expert Offloading in Sparse Models",
+      "status": "none",
+      "repository_url": null,
+      "evidence": "No candidate implementation declares the exact work."
+    },
+    {
+      "work_id": "PW-1015",
+      "record_id": "AdaptiveCompute-0426",
+      "title": "Quantized Routing Tables for Memory-Bound Decoders",
+      "status": "none",
+      "repository_url": null,
+      "evidence": "No candidate implementation declares the exact work."
+    },
+    {
+      "work_id": "PW-1104",
+      "record_id": "AUCE-0733",
+      "title": "Gradient-Sparsified Communication for Sharded Optimizers",
+      "status": "none",
+      "repository_url": null,
+      "evidence": "No candidate implementation declares the exact work."
+    },
+    {
+      "work_id": "PW-1140",
+      "record_id": "AdaptiveComp-0622",
+      "title": "Sparse Activation Caching for Repeated Prompts",
+      "status": "none",
+      "repository_url": null,
+      "evidence": "No candidate implementation declares the exact work."
+    },
+    {
+      "work_id": "PW-1287",
+      "record_id": "ACE-0311",
+      "title": "Spectral Sparsity Scheduling in Recurrent Encoders",
+      "status": "none",
+      "repository_url": null,
+      "evidence": "No candidate implementation declares the exact work."
+    }
+  ]
+}
